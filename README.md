@@ -1,8 +1,13 @@
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 
 # Hi👋 I'm Aalaa Ayman
-<div align="center", width = 100>
+
 ## Bioinformatics Student | Python Developer | Competitive Programmer
-</div>
+
 
 * 🌍  I'm based in Eygpt
 * ✉️  You can contact me at aalaasalah389@gmail.com
