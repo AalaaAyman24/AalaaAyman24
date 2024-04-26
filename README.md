@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="500">
 Hi👋 I'm Aalaa Ayman
 </div>
 
