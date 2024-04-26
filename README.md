@@ -1,6 +1,6 @@
 
 # Hi👋 I'm Aalaa Ayman
-<div align="center">
+<div align="center", width = 100>
 ## Bioinformatics Student | Python Developer | Competitive Programmer
 </div>
 
