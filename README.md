@@ -1,10 +1,8 @@
 <div align="center" width="50">
-
-<img alt="Welcome!" width="300"/>
-
+# Hi👋 I'm Aalaa Ayman
 </div>
 
-# Hi👋 I'm Aalaa Ayman
+
 
 ## Bioinformatics Student | Python Developer | Competitive Programmer
 
