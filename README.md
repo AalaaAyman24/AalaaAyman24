@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center">
 # Hi👋 I'm Aalaa Ayman
 
 ## Bioinformatics Student | Python Developer | Competitive Programmer
