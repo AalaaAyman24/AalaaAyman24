@@ -1,9 +1,9 @@
 ### Hi👋 My name is Aalaa Ayman
 
-🌍  I'm based in Eygpt
-✉️  You can contact me at aalaasalah389@gmail.com
-🧠  I'm learning Data Science
-🤝  I'm open to collaborating on Projects
+* 🌍  I'm based in Eygpt
+* ✉️  You can contact me at aalaasalah389@gmail.com
+* 🧠  I'm learning Data Science
+* 🤝  I'm open to collaborating on Projects
 
 <!--
 **AalaaAyman24/AalaaAyman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
