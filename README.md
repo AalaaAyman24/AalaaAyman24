@@ -1,5 +1,7 @@
 # Hi👋 My name is Aalaa Ayman
 
+## Bioinformatics Student | Python Developer | Competitive Programmer
+
 * 🌍  I'm based in Eygpt
 * ✉️  You can contact me at aalaasalah389@gmail.com
 * 🧠  I'm learning Data Science
