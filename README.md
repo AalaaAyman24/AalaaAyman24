@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Aalaa Ayman
+### Hi👋 My name is Aalaa Ayman
 
 <!--
 **AalaaAyman24/AalaaAyman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
