@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Aalaa Ayman 👋</h1>
+<h1 align="center"> Hey there! I'm Aalaa Ayman 👋 </h1>
 <h2 align="center"> Bioinformatics Student | Python Developer | Competitive Programmer </h2>
 
 
