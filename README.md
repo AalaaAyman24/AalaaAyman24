@@ -1,4 +1,4 @@
-# Hi👋 my name is Aalaa Ayman
+# Hi👋 I'm Aalaa Ayman
 
 ## Bioinformatics Student | Python Developer | Competitive Programmer
 
