@@ -1,6 +1,5 @@
-# Hi👋 I'm Aalaa Ayman
-
-## Bioinformatics Student | Python Developer | Competitive Programmer
+<h1 align="center"> Hi there! I'm Aalaa Ayman 👋</h1>
+<h2 align="center"> Bioinformatics Student | Python Developer | Competitive Programmer </h2>
 
 
 * 🌍  I'm based in Eygpt
