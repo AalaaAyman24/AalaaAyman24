@@ -1,4 +1,5 @@
 # Hi👋 I'm Aalaa Ayman
+<div align="center" width="50">
 
 ## Bioinformatics Student | Python Developer | Competitive Programmer
 
