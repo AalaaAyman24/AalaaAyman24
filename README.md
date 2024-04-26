@@ -1,11 +1,14 @@
 <h1 align="center"> Hey there! I'm Aalaa Ayman 👋 </h1>
 <h2 align="center"> Bioinformatics Student | Python Developer | Competitive Programmer </h2>
-
+<div align="left"> 
 <h3> 👨🏻‍💻 About Me </h3>
+
 * 🌍  I'm based in Eygpt
 * ✉️  You can contact me at aalaasalah389@gmail.com
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Projects
+
+</div>  
 
 <!--
 **AalaaAyman24/AalaaAyman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
