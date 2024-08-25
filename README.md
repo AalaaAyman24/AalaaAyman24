@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Aalaa Ayman 👋 </h1>
-<h2 align="center"> Bioinformatics Student | Python Developer | Competitive Programmer </h2>
+<h2 align="center"> Bioinformatics Student | Data Scientist | Competitive Programmer </h2>
 <div align="left"> 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👩🏻‍💻 About Me </h3>
 
 * 🌍  I'm based in Eygpt
 * ✉️  You can contact me at aalaasalah389@gmail.com
