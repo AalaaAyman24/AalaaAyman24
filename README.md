@@ -97,7 +97,6 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AalaaAyman24&theme=github)
 
 
 <svg width="100" height="100">
