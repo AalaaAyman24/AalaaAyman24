@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 
 ### Aalaa Ayman 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer)
-
-<p align="center" style="font-weight: bold; font-style: italic; color: #D5006D;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Fira%20Code&weight=700&size=24">
-</p>
-
 <p align="center" style="font-family: 'Mélodrame', sans-serif; font-weight: bold; font-style: italic; color: #921A40;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=24">
 </p>
