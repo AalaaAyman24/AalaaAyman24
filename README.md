@@ -88,5 +88,5 @@
 ---
 
 ## 🎯 Goals
-I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
+<h3> I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.</h3>
 ---
