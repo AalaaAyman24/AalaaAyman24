@@ -92,7 +92,7 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/-Aalaa-">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-icon.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://discord.com/aalaa_ayman">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
