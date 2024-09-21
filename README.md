@@ -119,5 +119,9 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AalaaAyman24&theme=github)
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8"> Welcome to Aalaa's GitHub </marquee>
+</h1>
+
 
 
