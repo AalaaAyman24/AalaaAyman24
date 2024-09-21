@@ -76,6 +76,10 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <a href="https://discord.com/aalaa_ayman"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
+</p>
+
 
 ## Skills & Tools
 
