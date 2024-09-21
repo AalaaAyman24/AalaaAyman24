@@ -76,41 +76,6 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <a href="https://discord.com/aalaa_ayman"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
-</p>
-
-<svg width="100" height="100">
-  <rect width="50" height="50" fill="green">
-    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
-  </rect>
-  <rect width="50" height="50" fill="none" stroke="purple" stroke-width="5">
-    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
-  </rect>
-</svg>
-
-
-### Connect with Me:
-<p align="center">
-  <a href="mailto:aalaasalah389@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/aalaaayman24">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/aalaaayman123">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/-Aalaa-">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://discord.com/aalaa_ayman">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
-
-
-
 
 ## Skills & Tools
 
