@@ -28,13 +28,48 @@ Here are some ideas to get you started:
 
 ### Aalaa Ayman 👋
 
-<p align="center" style="font-family: 'Mélodrame', sans-serif; font-weight: bold; font-style: italic; color: #921A40;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=24">
-</p>
-
 <p align="center" style="font-family: 'Mélodrame', sans-serif; font-weight: bold; font-style: italic; color: #FFC0CB;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=24">
 </p>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Header</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        h1 {
+            font-family: 'Mélodrame', sans-serif;
+            font-weight: bold;
+            font-style: italic;
+            color: #4682B4;
+            transform: translateY(-50px);
+            animation: slideIn 1s forwards;
+        }
+
+        @keyframes slideIn {
+            to {
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Profile!</h1>
+</body>
+</html>
+
 
 
 
