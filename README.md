@@ -68,6 +68,14 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalaaAyman24&layout=compact&langs_count=6&theme=radical)](https://github.com/AalaaAyman24/github-readme-stats)
 
+## Most Used Languages
+<p align="center">
+  <a href="https://github.com/AalaaAyman24/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalaaAyman24&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
+  </a>
+</p>
+
+
 
 ### Connect with Me:
 <p align="center">
