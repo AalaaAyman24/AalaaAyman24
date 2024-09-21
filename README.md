@@ -80,6 +80,16 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
 </p>
 
+<svg width="100" height="100">
+  <rect width="50" height="50" fill="green">
+    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
+  </rect>
+  <rect width="50" height="50" fill="none" stroke="purple" stroke-width="5">
+    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
+
 ### Connect with Me:
 <p align="center">
   <a href="mailto:aalaasalah389@gmail.com">
@@ -98,17 +108,6 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<svg width="100" height="100">
-  <rect width="50" height="50" fill="green">
-    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
-  </rect>
-  <rect width="50" height="50" fill="none" stroke="purple" stroke-width="5">
-    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
-  </rect>
-</svg>
 
 
 
