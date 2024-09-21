@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+👋🏻;I'm+Aalaa+Ayman;Bioinformatics+Student+🧬;Data+Engineer+📊;Computer+Vision+Engineer+🖥️;Competitive+Programmer+👩🏻‍💻&font=Lobster&weight=700&size=30&color=FF1493">
 </p>
 
-
+<div align="left"> 
 <h3> 👩🏻‍💻 About Me </h3>
 🌍  I'm based in Eygpt
 🔭 I’m currently working on **data analysis projects in bioinformatics and deep learning**.
@@ -10,7 +10,7 @@
 👯 I’m looking to collaborate on **open-source projects related to computer vision and data analysis**.
 💬 Ask me about my experiences in **web development, Python, and data-related projects**.
 ⚡ Fun fact: **I can’t code without my coffee; it’s my secret fuel!**
-
+</div>
 
 
 ### 💼 Projects
