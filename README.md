@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+👋🏻;I'm+Aalaa+Ayman;Bioinformatics+Student+🧬;Data+Engineer+📊;Computer+Vision+Engineer+🖥️;Competitive+Programmer+👩🏻‍💻&font=Lobster&weight=700&size=30&color=FF1493">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+%F0%9F%91%8B;I'm+Aalaa+Ayman;Bioinformatics+Student+%F0%9F%A7%AC;Data+Engineer+%F0%9F%93%8A;Computer+Vision+Engineer+%F0%9F%96%A5;Competitive+Programmer+%F0%9F%92%BB&font=Lobster&weight=700&size=30&color=FF1493">
-</p>
 
-
-🏫 From **Egypt**  
-👩🏻‍💻 **Bioinformatics** and **Data Science** Student  
-💡 Passionate about **Machine Learning**, **Web Applications**, and **Data Analysis**  
+<h3> 👩🏻‍💻 About Me </h3>
+- 🌍  I'm based in Eygpt
+- 🔭 I’m currently working on **data analysis projects in bioinformatics and deep learning**.
+- 🌱 I’m currently learning **advanced machine learning techniques, computer vision, and AI**.
+- 👯 I’m looking to collaborate on **open-source projects related to computer vision and data analysis**.
+- 💬 Ask me about my experiences in **web development, Python, and data-related projects**.
+- ⚡ Fun fact: **I can’t code without my coffee; it’s my secret fuel!**
 
 
 
@@ -20,10 +20,6 @@ I am actively engaged in projects that bridge **Bioinformatics** with **Data Sci
 - Performing **data analysis** for insights-driven strategies.
 
 ---
-
-### 🎯 Goals
-I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
-
 
 ## Most Used Languages
 <p align="center">
@@ -80,3 +76,8 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+
+### 🎯 Goals
+I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
+---
