@@ -135,6 +135,11 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 
 ## Skills & Tools
 
+### Frameworks:
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
 ### Languages:
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -159,10 +164,4 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-
-### Frameworks:
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
