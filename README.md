@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=24">
 </p>
 
+<p align="center" style="font-family: 'Arial', sans-serif; font-weight: bold; font-style: italic; color: #FF69B4;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Arial&weight=700&size=24">
+</p>
+
 
 
 🏫 From **Egypt**  
