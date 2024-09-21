@@ -4,12 +4,12 @@
 
 
 <h3> 👩🏻‍💻 About Me </h3>
-- 🌍  I'm based in Eygpt
-- 🔭 I’m currently working on **data analysis projects in bioinformatics and deep learning**.
-- 🌱 I’m currently learning **advanced machine learning techniques, computer vision, and AI**.
-- 👯 I’m looking to collaborate on **open-source projects related to computer vision and data analysis**.
-- 💬 Ask me about my experiences in **web development, Python, and data-related projects**.
-- ⚡ Fun fact: **I can’t code without my coffee; it’s my secret fuel!**
+🌍  I'm based in Eygpt
+🔭 I’m currently working on **data analysis projects in bioinformatics and deep learning**.
+🌱 I’m currently learning **advanced machine learning techniques, computer vision, and AI**.
+👯 I’m looking to collaborate on **open-source projects related to computer vision and data analysis**.
+💬 Ask me about my experiences in **web development, Python, and data-related projects**.
+⚡ Fun fact: **I can’t code without my coffee; it’s my secret fuel!**
 
 
 
