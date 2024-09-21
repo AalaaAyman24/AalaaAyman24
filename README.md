@@ -24,3 +24,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Aalaa Ayman 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer)
+
+🏫 From **Egypt**  
+👩🏻‍💻 Student in **Bioinformatics** and **Data Science**  
+💡 Interested in **Machine Learning**, **Web Applications**, and **Data Analysis**  
+
+## Connect with Me 🙋🏻‍♀️
+[LinkedIn](#) | [Gmail](mailto:aalaasalah389@gmail.com) | [Kaggle](#) | [GitHub](#)
+
+## Skills & Tools
+- **Languages**: Python, C++, Java, JavaScript
+- **Frameworks**: Django, Flask
+- **Data Tools**: Pandas, NumPy, TensorFlow, Keras
+- **Web Technologies**: HTML5, CSS3, Git
+
+![Profile Image](your-image-url.jpg)
+
+## Projects
+I am currently working on various projects related to bioinformatics and data analysis, focused on developing machine learning models and web applications.
