@@ -12,13 +12,20 @@
   ⚡ Fun fact: I can’t code without my coffee; it’s my secret fuel!
 </div>
 
+---
+💼 **Projects Overview**  
 
+1. **Computer Vision Projects**  
+   - **Description**: Developed projects in computer vision, including **Teeth Classification** and **Water Segmentation** to enhance image analysis capabilities.  
+   - **Technologies**: Python, Keras, TensorFlow.
 
-### 💼 Projects
-I am actively engaged in projects that bridge **Bioinformatics** with **Data Science**, focusing on:
-- Building **machine learning models**.
-- Creating **interactive web applications**.
-- Performing **data analysis** for insights-driven strategies.
+2. **Interactive Web Application**  
+   - **Description**: Created an interactive web application using HTML and CSS for user engagement and functionality.  
+   - **Technologies**: HTML, CSS.
+
+3. **Data Project**  
+   - **Description**: Worked on a data-related project that involved analysis and manipulation of datasets to derive meaningful insights.  
+   - **Technologies**: Pandas, NumPy, Matplotlib, Seaborn.
 
 ---
 
