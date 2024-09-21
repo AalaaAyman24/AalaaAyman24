@@ -77,6 +77,7 @@ I am actively engaged in projects that bridge **Bioinformatics** with **Data Sci
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
 
 ### 🎯 Goals
 I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
