@@ -80,6 +80,6 @@ I am actively engaged in projects that bridge **Bioinformatics** with **Data Sci
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
 ---
