@@ -30,19 +30,14 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer)
 
+<p align="center" style="font-weight: bold; font-style: italic; color: #D5006D;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Fira%20Code&weight=700&size=24">
+</p>
+
+
 🏫 From **Egypt**  
 👩🏻‍💻 **Bioinformatics** and **Data Science** Student  
 💡 Passionate about **Machine Learning**, **Web Applications**, and **Data Analysis**  
-
----
-
-### 🚀 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aalaa-blue)](https://www.linkedin.com/in/aalaaayman24)
-- [![Gmail](https://img.shields.io/badge/Gmail-Aalaa-red)](mailto:aalaasalah389@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-AalaaAyman24-lightgrey)](https://github.com/AalaaAyman24)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-AalaaAyman24-blue)](https://www.kaggle.com/aalaaayman)
-
----
 
 
 
