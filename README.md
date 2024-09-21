@@ -1,7 +1,3 @@
-<p align="center" style="font-family: 'Mélodrame', sans-serif; font-weight: bold; font-style: italic; color: #FFC0CB;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=24">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Mélodrame&weight=700&size=30&color=FF1493">
 </p>
