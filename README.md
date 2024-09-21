@@ -6,8 +6,8 @@
   <h3> 👩🏻‍💻 About Me </h3>
   🌍 I'm based in Egypt<br>
   🔭 I’m currently working on data analysis projects in bioinformatics and deep learning.<br>
-  🌱 I’m currently learning advanced machine learning techniques, computer vision, and AI.<br>
-  👯 I’m looking to collaborate on open-source projects related to computer vision and data analysis.<br>
+  🧠 I’m currently learning advanced machine learning techniques, computer vision, and AI.<br>
+  🤝 I’m looking to collaborate on open-source projects related to computer vision and data analysis.<br>
   💬 Ask me about my experiences in web development, Python, and data-related projects.<br>
   ⚡ Fun fact: I can’t code without my coffee; it’s my secret fuel!
 </div>
