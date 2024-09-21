@@ -57,16 +57,6 @@ I am actively engaged in projects that bridge **Bioinformatics** with **Data Sci
 ### 🎯 Goals
 I aim to continue expanding my knowledge in **machine learning** and **data science**, and contribute to **open-source** projects.
 
----
-
-### 📊 GitHub Stats
-![Aalaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AalaaAyman24&show_icons=true&theme=radical)
-
----
-
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalaaAyman24&layout=compact&langs_count=6&theme=radical)](https://github.com/AalaaAyman24/github-readme-stats)
 
 ## Most Used Languages
 <p align="center">
