@@ -17,7 +17,7 @@
 
 1. **Computer Vision Projects**  
    - **Description**: Developed projects in computer vision, including **Teeth Classification** and **Water Segmentation** to enhance image analysis capabilities.  
-   - **Technologies**: Python, Keras, TensorFlow.
+   - **Technologies**: Python, Keras, TensorFlow, Flask.
 
 2. **Interactive Web Application**  
    - **Description**: Created an interactive web application using HTML and CSS for user engagement and functionality.  
