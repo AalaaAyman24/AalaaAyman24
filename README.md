@@ -76,6 +76,26 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <a href="https://discord.com/aalaa_ayman"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
+### Connect with Me:
+<p align="center">
+  <a href="mailto:aalaasalah389@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aalaaayman24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/aalaaayman123">
+    <img src="https://img.shields.io/badge/Kaggle-20BE60?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/-Aalaa-">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://discord.com/aalaa_ayman">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
