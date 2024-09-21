@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+👋🏻;I'm+Aalaa+Ayman;Bioinformatics+Student+🧬;Data+Engineer+📊;Computer+Vision+Engineer+🖥️;Competitive+Programmer+👩🏻‍💻&font=Lobster&weight=700&size=30&color=FF1493">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+%F0%9F%91%8B;I'm+Aalaa+Ayman;Bioinformatics+Student+%F0%9F%A7%AC;Data+Engineer+%F0%9F%93%8A;Computer+Vision+Engineer+%F0%9F%96%A5;Competitive+Programmer+%F0%9F%92%BB&font=Lobster&weight=700&size=30&color=FF1493">
+</p>
+
 
 🏫 From **Egypt**  
 👩🏻‍💻 **Bioinformatics** and **Data Science** Student  
