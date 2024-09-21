@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+Aalaa+Ayman;Bioinformatics+Student;Data+Scientist;Competitive+Programmer&font=Lobster&weight=700&size=30&color=FF1493">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Aalaa's+Github!+👋🏻;Bioinformatics+Student+🧬;Data+Engineer+📊;Computer+Vision+Engineer+🖥️;Competitive+Programmer+👩🏻‍💻 &font=Lobster&weight=700&size=30&color=FF1493">
 </p>
 
 <p align="center">
