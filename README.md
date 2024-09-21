@@ -69,19 +69,6 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalaaAyman24&layout=compact&langs_count=6&theme=radical)](https://github.com/AalaaAyman24/github-readme-stats)
 
 
-### Technologies:
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-
-
-
 ### Connect with Me:
 <p align="center">
   <a href="mailto:aalaasalah389@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -95,8 +82,6 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
 </p>
-
-
 
 
 
@@ -144,3 +129,39 @@ I aim to continue expanding my knowledge in **machine learning** and **data scie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+
+
+## Skills & Tools
+
+### Languages:
+<p align="center">
+  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://www.python.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius: 10px;"/></a>
+</p>
+
+### Frameworks:
+<p align="center">
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="border-radius: 10px;"/></a>
+</p>
+
+### Data Tools:
+<p align="center">
+  <a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://numpy.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://www.tensorflow.org/api_docs/python/tf" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://keras.io/api/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="border-radius: 10px;"/></a>
+</p>
+
+### Web Technologies:
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 10px;"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border-radius: 10px;"/></a>
+</p>
+
